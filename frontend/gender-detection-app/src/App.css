@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+video {
+  border: 1px solid black;
+  margin-top: 20px;
+}
+
+.result {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
